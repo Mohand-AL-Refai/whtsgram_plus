@@ -1,4 +1,4 @@
-Version 1.55 Changelog:
+Version 2.55 Changelog:
 
 >[Base] 215.0.0.27.359
 >[Added] App Icons
